@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ビリ",
+  "base_artist": "角巻わため",
+  "createdAt": "2026-03-04T12:35:25.254912Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビリ",
+      "artist": "角巻わため",
+      "has_synced": true,
+      "path": "select/01_ビリ_角巻わため.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビリ",
+      "artist": "Tsunomaki Watame",
+      "has_synced": true,
+      "path": "select/02_ビリ_Tsunomaki_Watame.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビリ",
+      "artist": "角巻わため",
+      "has_synced": false,
+      "path": "select/pl_01_ビリ_角巻わため.txt"
+    }
+  ]
+}
